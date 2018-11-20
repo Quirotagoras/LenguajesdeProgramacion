@@ -1,0 +1,8 @@
+1f4fe3c3fa710ec04fef50be5235ab89a6efee2a2fda20f11a4e812e8f71d854  mariadb-10.3.10-winx64.msi
+4d409bc55bfb65f0666e834cf135f5b397976776f8ce7e6e6928b80da927b748  mariadb-connector-c-2.3.7-win64.msi
+fab9c1d4b15e231946632857964a4561e447d3c3e7deaf5bd31d3fc3c6b98792  mariadb-connector-c-3.0.6-win64.msi
+ee4fd17735a329103bc8b6fe220b7c41f3f656841bdcde8629f7725ac1ebc992  mariadb-connector-nodejs-2.0.0-alpha.zip
+1b6414280aff2af2648e40113d1efffbf032096a8d4012b365a66343ae378b9f  mariadb-connector-odbc-2.0.18-win64.msi
+cc3bc6f804f65f7854af50447ebfdfdfb53ad3413fea73216946c600c65370df  mariadb-connector-odbc-3.0.6-win64.msi
+bd14e9d13e79a15b6b2ad4668492d926cf7bfe7da8f5a0434f1b6b65d62a7b6a  mariadb-java-client-1.7.4.jar
+26fc67b3022a6e85323b76ebb4c26994ec1a6b11ec7344483244c4e50ff79ce0  mariadb-java-client-2.3.0.jar
